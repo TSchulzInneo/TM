@@ -1,0 +1,1457 @@
+{
+  "returncode": 1,
+  "msg": "",
+  "data": {
+    "localization": {
+      "languages": {
+        "de": "Deutsch"
+      },
+      "translations": {
+        "header": {
+          "ePubs": {
+            "de": "TEST 123"
+          },
+          "hotline": {
+            "de": "TEST 123"
+          },
+          "legalNotice": {
+            "de": "TEST 123"
+          },
+          "news": {
+            "de": "TEST 123"
+          },
+          "newsFeed": {
+            "de": "TEST 123"
+          },
+          "profileEdit": {
+            "de": "TEST 123"
+          },
+          "quiz": {
+            "de": "TEST 123"
+          },
+          "register": {
+            "de": ""
+          },
+          "registerSuccess": {
+            "de": ""
+          },
+          "repairAssistance": {
+            "de": "TEST 123"
+          },
+          "trainingsOrdered": {
+            "de": "TEST 123"
+          },
+          "trainingsVisited": {
+            "de": "TEST 123"
+          },
+          "trainingsfinder": {
+            "de": "TEST 123"
+          },
+          "trainingsView": {
+            "de": "TEST 123"
+          },
+          "passwordRenew": {
+            "de": ""
+          },
+          "passwordRenewSuccess": {
+            "de": ""
+          }
+        },
+        "general": {
+          "groupFilter": {
+            "filter": {
+              "de": "TEST 123"
+            },
+            "deleteAllFilter": {
+              "de": "TEST 123"
+            }
+          },
+          "amounts": {
+            "none": {
+              "de": "TEST 123"
+            },
+            "one": {
+              "de": "TEST 123"
+            },
+            "two": {
+              "de": "TEST 123"
+            },
+            "three": {
+              "de": "TEST 123"
+            },
+            "four": {
+              "de": "TEST 123"
+            },
+            "five": {
+              "de": "TEST 123"
+            },
+            "six": {
+              "de": "TEST 123"
+            },
+            "seven": {
+              "de": "TEST 123"
+            },
+            "eight": {
+              "de": "TEST 123"
+            },
+            "nine": {
+              "de": "TEST 123"
+            },
+            "ten": {
+              "de": "TEST 123"
+            },
+            "eleven": {
+              "de": "TEST 123"
+            },
+            "twelve": {
+              "de": "TEST 123"
+            }
+          },
+          "view": {
+            "de": "TEST 123"
+          },
+          "alreadyDownloaded": {
+            "de": "TEST 123"
+          },
+          "downloads": {
+            "de": "TEST 123"
+          },
+          "ePaper": {
+            "de": "TEST 123"
+          },
+          "trainingsfinder": {
+            "de": "TEST 123"
+          },
+          "start": {
+            "de": "TEST 123"
+          },
+          "home": {
+            "de": "TEST 123"
+          },
+          "trainings": {
+            "de": "TEST 123"
+          },
+          "repairShopHelp": {
+            "de": "TEST 123"
+          },
+          "chat": {
+            "de": "TEST 123"
+          },
+          "profile": {
+            "de": "TEST 123"
+          },
+          "rating": {
+            "de": "TEST 123"
+          },
+          "settings": {
+            "de": "TEST 123"
+          },
+          "cancel": {
+            "de": "TEST 123"
+          },
+          "password": {
+            "de": "TEST 123"
+          },
+          "email": {
+            "de": "TEST 123"
+          },
+          "generalError": {
+            "de": "TEST 123"
+          },
+          "delete": {
+            "de": "TEST 123"
+          },
+          "notAssigned": {
+            "de": "TEST 123"
+          },
+          "deviceBackButton": {
+            "de": "TEST 123",
+            "en": "TEST 123"
+          }
+        },
+        "home": {
+          "news": {
+            "de": "TEST 123"
+          },
+          "shop": {
+            "de": "TEST 123"
+          },
+          "legalNotice": {
+            "de": "TEST 123"
+          },
+          "qrCodeScan": {
+            "de": "TEST 123"
+          }
+        },
+        "ePubs": {
+          "searchPlaceHolder": {
+            "de": "TEST 123"
+          },
+          "downloadView": {
+            "title": {
+              "de": "TEST 123"
+            },
+            "download": {
+              "de": "TEST 123"
+            }
+          }
+        },
+        "passwordRenew": {
+          "title": {
+            "de": "TEST 123"
+          },
+          "content": {
+            "de": "TEST 123"
+          },
+          "passwordReset": {
+            "de": "TEST 123"
+          },
+          "errors": {
+            "missingMail": {
+              "de": "TEST 123"
+            },
+            "renewFailure": {
+              "de": "TEST 123"
+            }
+          }
+        },
+        "passwordRenewSuccess": {
+          "header": {
+            "de": "TEST 123"
+          },
+          "mailSent": {
+            "de": "TEST 123"
+          },
+          "mailInstructions": {
+            "de": "TEST 123"
+          },
+          "toLogin": {
+            "de": "TEST 123"
+          }
+        },
+        "login": {
+          "title": {
+            "de": "TEST 123"
+          },
+          "description": {
+            "de": "TEST 123"
+          },
+          "subpoints": {
+            "1": {
+              "de": "TEST 123"
+            },
+            "2": {
+              "de": "TEST 123"
+            }
+          },
+          "login": {
+            "de": "TEST 123"
+          },
+          "register": {
+            "de": "TEST 123"
+          },
+          "recoverPassword": {
+            "de": "TEST 123"
+          }
+        },
+        "register": {
+          "title": {
+            "de": "TEST 123"
+          },
+          "registration": {
+            "de": "TEST 123"
+          },
+          "passwordRepeat": {
+            "de": "TEST 123"
+          },
+          "personalInfo": {
+            "de": "TEST 123"
+          },
+          "formOfAddress": {
+            "default": {
+              "de": "TEST 123"
+            },
+            "male": {
+              "de": "TEST 123"
+            },
+            "female": {
+              "de": "TEST 123"
+            },
+            "other": {
+              "de": "TEST 123"
+            }
+          },
+          "firstName": {
+            "de": "TEST 123"
+          },
+          "lastName": {
+            "de": "TEST 123"
+          },
+          "company": {
+            "de": "TEST 123"
+          },
+          "register": {
+            "de": "TEST 123"
+          },
+          "errors": {
+            "registerError": {
+              "de": "TEST 123"
+            },
+            "passwordMismatch": {
+              "de": "TEST 123"
+            },
+            "missing": {
+              "email": {
+                "de": "TEST 123"
+              },
+              "password": {
+                "de": "TEST 123"
+              },
+              "title": {
+                "de": "TEST 123"
+              },
+              "firstName": {
+                "de": "TEST 123"
+              },
+              "lastName": {
+                "de": "TEST 123"
+              }
+            }
+          }
+        },
+        "registerSuccess": {
+          "title": {
+            "de": "TEST 123"
+          },
+          "confirmationEmail": {
+            "de": "TEST 123"
+          },
+          "pleaseConfirmRegistration": {
+            "de": "TEST 123"
+          },
+          "toLogin": {
+            "de": "TEST 123"
+          }
+        },
+        "profile": {
+          "edit": {
+            "de": "TEST 123"
+          }
+        },
+        "settings": {
+          "language": {
+            "de": "TEST 123"
+          },
+          "legal": {
+            "de": "TEST 123"
+          },
+          "legalNotice": {
+            "de": "TEST 123"
+          },
+          "logout": {
+            "de": "TEST 123"
+          },
+          "logoutError": {
+            "de": "TEST 123"
+          },
+          "deleteAccount": {
+            "de": "TEST 123"
+          },
+          "deleteAccountQuestion": {
+            "de": "TEST 123"
+          },
+          "deleteAccountDescription": {
+            "de": "TEST 123"
+          },
+          "deleteAccountDeleted": {
+            "de": "TEST 123"
+          }
+        },
+        "repairShopHelp": {
+          "repairAssistance": {
+            "de": "TEST 123"
+          },
+          "hotline": {
+            "de": "TEST 123"
+          },
+          "visualSupport": {
+            "de": "TEST 123"
+          },
+          "remoteDiagnosis": {
+            "de": "TEST 123"
+          }
+        },
+        "trainings": {
+          "orderedTrainings": {
+            "de": "TEST 123"
+          },
+          "visitedTrainings": {
+            "de": "TEST 123"
+          },
+          "quiz": {
+            "de": "TEST 123"
+          }
+        },
+        "profileEdit": {
+          "changeLogin": {
+            "de": "TEST 123"
+          },
+          "save": {
+            "de": "TEST 123"
+          },
+          "validationError": {
+            "de": "TEST 123"
+          }
+        },
+        "trainingsOverview": {
+          "noOrders": {
+            "de": "TEST 123"
+          },
+          "noOrderHistory": {
+            "de": "TEST 123"
+          }
+        },
+        "trainingsfinder": {
+          "searchPlaceHolder": {
+            "de": "TEST 123"
+          },
+          "filterGroups": {
+            "topic": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "provider": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "date": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "trainingName": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "trainingsDate": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "downloadDate": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "zip": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "location": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            }
+          },
+          "currencySeparator": {
+            "de": "TEST 123"
+          },
+          "vatNotice": {
+            "de": "TEST 123"
+          },
+          "showMore": {
+            "de": "TEST 123"
+          },
+          "orderEvent": {
+            "showMore": {
+              "de": "TEST 123"
+            },
+            "order": {
+              "de": "TEST 123"
+            }
+          },
+          "eventCount": {
+            "event": {
+              "singular": {
+                "de": "TEST 123"
+              },
+              "plural": {
+                "de": "TEST 123"
+              }
+            },
+            "to": {
+              "de": "TEST 123"
+            },
+            "training": {
+              "singular": {
+                "de": "TEST 123"
+              },
+              "plural": {
+                "de": "TEST 123"
+              },
+              "replaceOne": {
+                "de": "TEST 123"
+              },
+              "replaceNone": {
+                "de": "TEST 123"
+              }
+            },
+            "download": {
+              "singular": {
+                "de": "TEST 123"
+              },
+              "plural": {
+                "de": "TEST 123"
+              },
+              "replaceOne": {
+                "de": "TEST 123"
+              },
+              "replaceNone": {
+                "de": "TEST 123"
+              }
+            },
+            "found": {
+              "de": "TEST 123"
+            }
+          }
+        },
+        "downloads": {
+          "searchPlaceHolder": {
+            "de": "TEST 123"
+          },
+          "filterGroups": {
+            "trainingName": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "trainingsDate": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            },
+            "downloadDate": {
+              "title": { "de": "TEST 123" },
+              "chooseText": { "de": "TEST 123" }
+            }
+          },
+          "downloadCount": {
+            "download": {
+              "singular": {
+                "de": "TEST 123"
+              },
+              "plural": {
+                "de": "TEST 123"
+              },
+              "replaceOne": {
+                "de": "TEST 123"
+              },
+              "replaceNone": {
+                "de": "TEST 123"
+              }
+            },
+            "found": {
+              "de": "TEST 123"
+            }
+          },
+          "noDownloadsFoundText": {
+            "de": "TEST 123"
+          }
+        },
+        "repairAssistance": {
+          "search": {
+            "de": "TEST 123"
+          },
+          "contents": {
+            "de": "TEST 123"
+          },
+          "expired": {
+            "de": "TEST 123"
+          },
+          "toShop": {
+            "de": "TEST 123"
+          },
+          "reallyDelete": {
+            "de": "TEST 123"
+          }
+        },
+        "modelViewer": {
+          "ar": {
+            "de": "TEST 123",
+            "en": "TEST 123"
+          },
+          "threeD": {
+            "de": "TEST 123",
+            "en": "TEST 123"
+          }
+        },
+        "quiz": {
+          "searchPlaceholder": {
+            "de": "TEST 123"
+          },
+          "difficulty": {
+            "de": "TEST 123"
+          },
+          "question": {
+            "de": "TEST 123"
+          },
+          "questions": {
+            "de": "TEST 123"
+          },
+          "start": {
+            "de": "TEST 123"
+          },
+          "progressText": {
+            "begin": { "de": "TEST 123" },
+            "between": { "de": "TEST 123" }
+          },
+          "confirmButton": {
+            "de": "TEST 123"
+          },
+          "nextQuestion": {
+            "de": "TEST 123"
+          },
+          "showResult": {
+            "de": "TEST 123"
+          },
+          "resultHeading": {
+            "de": "TEST 123"
+          },
+          "resultStatement": {
+            "de": "TEST 123"
+          },
+          "resultText": {
+            "begin": { "de": "TEST 123" },
+            "end": { "de": "TEST 123" }
+          },
+          "resultCongratulations": {
+            "failure": {
+              "firstOption": { "de": "TEST 123" },
+              "secondOption": { "de": "TEST 123" },
+              "thirdOption": { "de": "TEST 123" }
+            },
+            "mediocre": {
+              "firstOption": { "de": "TEST 123" },
+              "secondOption": { "de": "TEST 123" },
+              "thirdOption": { "de": "TEST 123" }
+            },
+            "win": {
+              "firstOption": { "de": "TEST 123" },
+              "secondOption": { "de": "TEST 123" },
+              "thirdOption": { "de": "TEST 123" }
+            }
+          },
+          "backButtonText": {
+            "de": "TEST 123"
+          },
+          "backButtonToTrainingText": {
+            "de": "TEST 123"
+          },
+          "restartButtonText": {
+            "de": "TEST 123"
+          },
+          "groupFilter": {
+            "training": {
+              "title": {
+                "de": "TEST 123"
+              },
+              "chooseText": {
+                "de": "TEST 123"
+              }
+            },
+            "level": {
+              "title": {
+                "de": "TEST 123"
+              },
+              "chooseText": {
+                "de": "TEST 123"
+              },
+              "prefix": {
+                "de": "TEST 123"
+              }
+            }
+          },
+          "testsFound": {
+            "de": "TEST 123"
+          }
+        },
+        "newsFeed": {
+          "messagesTitle": {
+            "today": {
+              "de": "TEST 123"
+            },
+            "old": {
+              "de": "TEST 123"
+            }
+          },
+          "date": {
+            "on": { "de": "TEST 123" },
+            "ago": { "de": "TEST 123" },
+            "in": { "de": "TEST 123" },
+            "minutes": { "de": "TEST 123" },
+            "hours": { "de": "TEST 123" },
+            "oneHour": { "de": "TEST 123" }
+          }
+        },
+        "pushNotification": {
+          "later": {
+            "de": "TEST 123"
+          },
+          "errors": {
+            "loginError": {
+              "de": "TEST 123",
+              "en": "TEST 123"
+            }
+          },
+          "types": {
+            "externalLink": {
+              "de": "TEST 123"
+            },
+            "knowledgeTest": {
+              "de": "TEST 123"
+            },
+            "rating": {
+              "de": "TEST 123"
+            },
+            "news": {
+              "de": "TEST 123"
+            },
+            "editUser": {
+              "de": "TEST 123"
+            },
+            "orders": {
+              "de": "TEST 123"
+            },
+            "finder": {
+              "de": "TEST 123"
+            },
+            "exam": {
+              "de": "TEST 123"
+            },
+            "default": {
+              "de": ""
+            }
+          },
+          "button": {
+            "externalLink": {
+              "text": {
+                "de": "TEST 123"
+              }
+            },
+            "knowledgeTest": {
+              "text": { "de": "TEST 123" },
+              "error": { "de": "TEST 123" }
+            },
+            "rating": {
+              "text": { "de": "TEST 123" },
+              "error": { "de": "TEST 123" }
+            },
+            "news": {
+              "text": { "de": "TEST 123" }
+            },
+            "editUser": {
+              "text": { "de": "TEST 123" }
+            },
+            "orders": {
+              "text": { "de": "TEST 123" },
+              "error": { "de": "TEST 123" }
+            },
+            "finder": {
+              "text": { "de": "TEST 123" },
+              "error": { "de": "TEST 123" }
+            },
+            "exam": {
+              "text": { "de": "TEST 123" },
+              "error": { "de": "TEST 123" }
+            },
+            "qrCodes": {
+              "text": { "de": "TEST 123" }
+            },
+            "default": {
+              "text": { "de": "" }
+            }
+          }
+        },
+        "rating": {
+          "question": {
+            "de": "TEST 123"
+          },
+          "of": {
+            "de": "TEST 123"
+          },
+          "grade1": {
+            "de": "TEST 123"
+          },
+          "grade2": {
+            "de": "TEST 123"
+          },
+          "grade3": {
+            "de": "TEST 123"
+          },
+          "grade4": {
+            "de": "TEST 123"
+          },
+          "grade5": {
+            "de": "TEST 123"
+          },
+          "grade6": {
+            "de": "TEST 123"
+          },
+          "gradeYes": {
+            "de": "TEST 123"
+          },
+          "gradeNo": {
+            "de": "TEST 123"
+          },
+          "inputFieldPlaceholder": {
+            "de": "TEST 123"
+          },
+          "bottomButton": {
+            "back": {
+              "de": "TEST 123"
+            },
+            "continue": {
+              "de": "TEST 123"
+            },
+            "done": {
+              "de": "TEST 123"
+            },
+            "toHome": {
+              "de": "TEST 123"
+            }
+          },
+          "ratingSent": {
+            "de": "TEST 123"
+          },
+          "ratingThanks": {
+            "de": "TEST 123"
+          }
+        },
+        "hotline": {
+          "germanNumber": {
+            "text": { "de": "TEST 123" },
+            "link": { "de": "TEST 123" }
+          },
+          "austrianNumber": {
+            "text": { "de": "TEST 123" },
+            "link": { "de": "TEST 123" }
+          },
+          "finePrint": {
+            "1": {
+              "de": "TEST 123"
+            },
+            "2": {
+              "de": "TEST 123"
+            }
+          },
+          "manufacturerPortal": {
+            "de": "TEST 123"
+          },
+          "footNote": {
+            "1": {
+              "de": "TEST 123"
+            },
+            "2": {
+              "de": "TEST 123"
+            }
+          }
+        },
+        "qrScan": {
+          "scan": {
+            "de": "TEST 123"
+          },
+          "noQRCode": {
+            "de": "TEST 123"
+          },
+          "noCameraPermission": {
+            "de": "TEST 123"
+          },
+          "undefinedQRCode": {
+            "de": "TEST 123"
+          },
+          "illegalQRCode": {
+            "de": "TEST 123"
+          },
+          "download": {
+            "EPUB": {
+              "de": "TEST 123"
+            },
+            "GLB": {
+              "de": "TEST 123"
+            },
+            "PIC": {
+              "de": "TEST 123"
+            },
+            "MP4": {
+              "de": "TEST 123"
+            },
+            "PDF": {
+              "de": "TEST 123"
+            },
+            "download": {
+              "de": "TEST 123"
+            }
+          },
+          "link": {
+            "de": "TEST 123"
+          }
+        },
+        "trainingsView": {
+          "details": {
+            "de": "TEST 123"
+          },
+          "certificate": {
+            "de": "TEST 123"
+          },
+          "downloads": {
+            "noDownloads": {
+              "de": "TEST 123"
+            }
+          },
+          "quizzes": {
+            "noQuizzes": { "de": "TEST 123" },
+            "title": { "de": "TEST 123" },
+            "difficulty": { "de": "TEST 123" },
+            "questions": { "de": "TEST 123" },
+            "start": { "de": "TEST 123" }
+          },
+          "addonTrainings": {
+            "moreTrainingsTitle": { "de": "TEST 123" },
+            "moreTrainingsSubtitle": { "de": "TEST 123" }
+          }
+        },
+        "legalNotice": {
+          "companyName": {
+            "de": "TEST 123"
+          },
+          "street": {
+            "de": "TEST 123"
+          },
+          "zip": {
+            "de": "TEST 123"
+          },
+          "city": {
+            "de": "TEST 123"
+          },
+          "telefon": {
+            "term": {
+              "de": "TEST 123"
+            },
+            "number": {
+              "de": "TEST 123"
+            }
+          },
+          "telefax": {
+            "term": {
+              "de": "TEST 123"
+            },
+            "number": {
+              "de": "TEST 123"
+            }
+          },
+          "email": {
+            "term": {
+              "de": "TEST 123"
+            },
+            "mail": {
+              "de": "TEST 123"
+            }
+          },
+          "executive": {
+            "term": {
+              "de": "TEST 123"
+            },
+            "officer": {
+              "de": "TEST 123"
+            }
+          },
+          "commercialRegister": {
+            "de": "TEST 123"
+          },
+          "vatNumber": {
+            "de": "TEST 123"
+          },
+          "technicalImplementation": {
+            "title": {
+              "de": "TEST 123"
+            },
+            "companyName": {
+              "de": "TEST 123",
+              "en": "TEST 123"
+            },
+            "website": {
+              "de": "TEST 123",
+              "en": "TEST 123"
+            },
+            "websiteLink": {
+              "de": "TEST 123",
+              "en": "TEST 123"
+            }
+          },
+          "images": {
+            "term": {
+              "de": "TEST 123"
+            },
+            "1": {
+              "de": "TEST 123"
+            }
+          },
+          "linkButtons": {
+            "gtc": {
+              "de": "TEST 123"
+            },
+            "gtcLink": {
+              "de": "TEST 123"
+            },
+            "privacy": {
+              "de": "TEST 123"
+            },
+            "privacyLink": {
+              "de": "TEST 123"
+            }
+          },
+          "termsOfService": {
+            "title": {
+              "de": "TEST 123"
+            },
+            "updated": {
+              "de": "TEST 123"
+            },
+            "article": {
+              "1": {
+                "title": {
+                  "de": "TEST 123"
+                },
+                "description": {
+                  "de": "TEST 123"
+                },
+                "1": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    },
+                    "2": {
+                      "de": "TEST 123"
+                    },
+                    "3": {
+                      "de": "TEST 123"
+                    }
+                  }
+                },
+                "2": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    },
+                    "2": {
+                      "de": "TEST 123"
+                    }
+                  }
+                },
+                "3": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    },
+                    "2": {
+                      "de": "TEST 123"
+                    },
+                    "3": {
+                      "de": "TEST 123"
+                    },
+                    "4": {
+                      "de": "TEST 123"
+                    }
+                  }
+                },
+                "4": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    }
+                  }
+                },
+                "5": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    },
+                    "2": {
+                      "de": "TEST 123"
+                    }
+                  }
+                },
+                "6": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    },
+                    "2": {
+                      "de": "TEST 123"
+                    },
+                    "3": {
+                      "de": "TEST 123"
+                    }
+                  }
+                },
+                "7": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    },
+                    "2": {
+                      "de": "TEST 123"
+                    }
+                  }
+                },
+                "8": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    },
+                    "2": {
+                      "de": "TEST 123"
+                    },
+                    "3": {
+                      "de": "TEST 123"
+                    },
+                    "4": {
+                      "de": "TEST 123"
+                    }
+                  }
+                },
+                "9": {
+                  "title": {
+                    "de": "TEST 123"
+                  },
+                  "content": {
+                    "1": {
+                      "de": "TEST 123"
+                    }
+                  }
+                }
+              },
+              "2": {
+                "title": {
+                  "de": "TEST 123"
+                },
+                "description": {
+                  "1": {
+                    "de": "TEST 123"
+                  },
+                  "link": {
+                    "de": "TEST 123"
+                  },
+                  "2": {
+                    "de": "TEST 123"
+                  }
+                },
+                "content": {
+                  "1": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      },
+                      "3": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "2": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      },
+                      "3": {
+                        "de": "TEST 123"
+                      },
+                      "4": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "3": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "4": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      },
+                      "3": {
+                        "de": "TEST 123"
+                      },
+                      "4": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "5": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      },
+                      "3": {
+                        "de": "TEST 123"
+                      },
+                      "4": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "6": {
+                    "title": "TEST 123",
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "7": {
+                    "title": "TEST 123",
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "rightOfWithdrawal": {
+                        "title": {
+                          "de": "TEST 123"
+                        },
+                        "content": {
+                          "1": {
+                            "title": {
+                              "de": "TEST 123"
+                            },
+                            "content": {
+                              "1": {
+                                "de": "TEST 123"
+                              },
+                              "2": {
+                                "de": "TEST 123"
+                              },
+                              "3": {
+                                "de": "TEST 123"
+                              }
+                            }
+                          },
+                          "2": {
+                            "title": {
+                              "de": "TEST 123"
+                            },
+                            "content": {
+                              "1": {
+                                "de": "TEST 123"
+                              },
+                              "2": {
+                                "de": "TEST 123"
+                              },
+                              "3": {
+                                "de": "TEST 123"
+                              },
+                              "4": {
+                                "de": "TEST 123"
+                              },
+                              "5": {
+                                "de": "TEST 123"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      },
+                      "3": {
+                        "de": "TEST 123"
+                      },
+                      "sampleForm": {
+                        "title": { "de": "TEST 123" },
+                        "description": {
+                          "de": "TEST 123"
+                        },
+                        "form": {
+                          "addressee": {
+                            "de": "TEST 123"
+                          },
+                          "revocation": {
+                            "de": "TEST 123"
+                          },
+                          "content": {
+                            "1": {
+                              "de": "TEST 123"
+                            },
+                            "2": {
+                              "de": "TEST 123"
+                            },
+                            "3": {
+                              "de": "TEST 123"
+                            }
+                          },
+                          "signature": {
+                            "de": "TEST 123"
+                          },
+                          "date": {
+                            "de": "TEST 123"
+                          }
+                        },
+                        "annotation": {
+                          "de": "TEST 123"
+                        }
+                      }
+                    }
+                  },
+                  "8": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "1": {
+                          "de": "TEST 123"
+                        },
+                        "link": {
+                          "de": "TEST 123"
+                        },
+                        "2": {
+                          "de": "TEST 123"
+                        }
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  }
+                }
+              },
+              "3": {
+                "title": {
+                  "de": "TEST 123"
+                },
+                "content": {
+                  "1": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      },
+                      "3": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "2": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      },
+                      "3": {
+                        "de": "TEST 123"
+                      },
+                      "4": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "3": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "de": "TEST 123"
+                      },
+                      "2": {
+                        "de": "TEST 123"
+                      }
+                    }
+                  },
+                  "4": {
+                    "title": {
+                      "de": "TEST 123"
+                    },
+                    "content": {
+                      "1": {
+                        "1": {
+                          "de": "TEST 123"
+                        },
+                        "link": {
+                          "de": "TEST 123"
+                        },
+                        "2": {
+                          "de": "TEST 123"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
